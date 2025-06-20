@@ -25,7 +25,6 @@ Inspire more people to act responsibly.
 Open the Website
 Just open the site in your browser (on desktop or mobile).
 
-Use the Menu
 
 Go to “Pickup Center” to find nearby drop-off locations.
 
